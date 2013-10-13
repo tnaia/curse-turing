@@ -15,6 +15,8 @@ Text mode! That's it!
 Turing curses is my answer to precisely that dilemma. It has been hacked
 one night after frustration on internet search.
 
+This software is distributed under the GPLv3 license. See COPYING file.
+
 # Current status and usage 
 
 Minimum working simulator of a turing machine which runs in a tape infinite
