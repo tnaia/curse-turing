@@ -1,10 +1,12 @@
 Turing curses!
 ==============
 
-My friends, there is this wonderful thing I had tons of fun with.  It is
+One night, having a good time with friends, suddenly, I have a bright idea.
+
+"My friends, there is this wonderful thing I had tons of fun with!  It is
 called *turing machine*. There are interpreters for it online, I am
 sure. Let me just show you how this work, it will be enlightening, and you
-will have yet another story of your exotic fun with geeks.
+will have yet another story of your exotic fun with geeks..."
 
 What, these interpreters are provided in _binary_ format, and ony under 
 demand? Thes others have to be used online, and gosh what creepy design!
@@ -54,7 +56,7 @@ of the _unique_ source file `tc.c`, which has just about 100 lines!
 
 Here is a run of the program (`$` is my imaginary prompt).
 
-    tc rules-file.txt 'AAA+AA'
+    $ tc rules-file.txt 'AAA+AA'
     Reading the machine...
      got transition 0:  (A,0) --> (a,0,R)
      got transition 1:  (+,0) --> (a,0,R)
