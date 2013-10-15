@@ -108,4 +108,4 @@ They'll be more fun to code when we have ascii-named states, I know.
 - binary to hexadecimal `1010` --> `A`
 - add one (binary)  `1111` --> `10000`
 - evaluate unary expression (multiplication precedes sum) `11+111*11` --> `11111111`
-- evaluate unary expression (with parenthesis!)
+- evaluate unary expression (with parenthesis!) `(11+111)*11` --> `1111111111`
