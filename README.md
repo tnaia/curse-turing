@@ -94,3 +94,18 @@ Here is a run of the program (`$` is my imaginary prompt).
     tape: AAAAA
     s  2 ^
     [ machine halted ]
+
+## Suggestions of challenges
+
+A couple of warming-up turing-machines you may want to write.
+They'll be more fun to code when we have ascii-named states, I know.
+
+- unary adder `11+111` --> `11111`
+- erasor `blabla` --> ``
+- unary product `111x11` --> `111111`
+- complement of DNA sequence `ATGC` --> `TACG`
+- reverse binary sequence `1010111` --> `1110101`
+- binary to hexadecimal `1010` --> `A`
+- add one (binary)  `1111` --> `10000`
+- evaluate unary expression (multiplication precedes sum) `11+111*11` --> `11111111`
+- evaluate unary expression (with parenthesis!)
