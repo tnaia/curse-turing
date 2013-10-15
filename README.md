@@ -101,7 +101,7 @@ A couple of warming-up turing-machines you may want to write.
 They'll be more fun to code when we have ascii-named states, I know.
 
 - unary adder `11+111` --> `11111`
-- erasor `blabla` --> ``
+- erasor `blabla` -->  ` ` (clear tape)
 - unary product `111x11` --> `111111`
 - complement of DNA sequence `ATGC` --> `TACG`
 - reverse binary sequence `1010111` --> `1110101`
