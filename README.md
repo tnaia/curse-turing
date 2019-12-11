@@ -4,12 +4,12 @@ Turing curses!
 One night, having a good time with friends, suddenly, I have a bright idea.
 
 "My friends, there is this wonderful thing I had tons of fun with!  It is
-called *turing machine*. There are interpreters for it online, I am
+called *turing machine*. We can download a simulator  online, I am
 sure. Let me just show you how this work, it will be enlightening, and you
 will have yet another story of your exotic fun with geeks..."
 
 What, these interpreters are provided in _binary_ format, and ony under 
-demand? Thes others have to be used online, and gosh what creepy design!
+demand? These others must to be used online, and gosh what creepy design!
 I'd rather hack something in text mode...
 
 Text mode! That's it!
@@ -45,12 +45,17 @@ Yes, `L` stands for "left" and `R` for right.
 
 ## 1000 Idiosyncrasies
 
-The input format is *very* rigid. The characters of the tape are all ascii,
-the states can only be integers, there mey not be more than 1000 states,
-1000 transitions or 1000 characters. on the tape. I know, soo frustrating!
+The input format is *very* rigid. 
 
-The good news is that those are constants in `#defined` in the first lines
-of the _unique_ source file `tc.c`, which has just about 100 lines!
+- Characters of the tape must be ASCII;
+- States can only be integers;
+- There may be at most 1000 states, 1000 transitions and 1000 characters on the tape
+
+I know, frustrating!
+
+The good news (for item 3) is that the limits are constants `#defined`
+in the first lines of the _unique_ source file `tc.c`. And that has
+just about 100 lines!
 
 ## Example
 
