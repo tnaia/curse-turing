@@ -9,10 +9,11 @@ called a *turing machine*. We can download a simulator  online, I am
 sure. Let me just show you how this works, it will be enlightening, and you
 will have yet another story of exotic geeky fun..."
 
-A little browsing later, though:
+A little friendly browsing later, though:
 
 "What, these interpreters are provided in _binary_ format, and ony under
 demand? These others must to be used online, and gosh what creepy design!
+(So not user-friendly!) 
 I'd rather hack something in text mode..."
 
 At which point the voiceover from the narrator takes over...
