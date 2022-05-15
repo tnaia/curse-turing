@@ -1,8 +1,8 @@
 Turing curses!
 ==============
 
-One night, at a small friendly gathering with friends, suddenly, someone
-exclaims:
+One night, at a small friendly gathering with, erm, friends, suddenly, 
+someone exclaims:
 
 "My friends, there is this wonderfully entertaing thing I know...  It is
 called a *turing machine*. We can download a simulator  online, I am
