@@ -1,25 +1,31 @@
 Turing curses!
 ==============
 
-One night, having a good time with friends, suddenly, I have a bright idea.
+One night, at a small friendly gathering with friends, suddenly, someone
+exclaims:
 
-"My friends, there is this wonderful thing I had tons of fun with!  It is
-called *turing machine*. We can download a simulator  online, I am
-sure. Let me just show you how this work, it will be enlightening, and you
-will have yet another story of your exotic fun with geeks..."
+"My friends, there is this wonderfully entertaing thing I know...  It is
+called a *turing machine*. We can download a simulator  online, I am
+sure. Let me just show you how this works, it will be enlightening, and you
+will have yet another story of exotic geeky fun..."
 
-What, these interpreters are provided in _binary_ format, and ony under 
+A little browsing later, though:
+
+"What, these interpreters are provided in _binary_ format, and ony under
 demand? These others must to be used online, and gosh what creepy design!
-I'd rather hack something in text mode...
+I'd rather hack something in text mode..."
+
+At which point the voiceover from the narrator takes over...
 
 Text mode! That's it!
 
-Turing curses is my answer to precisely that dilemma. It has been hacked
-one night after frustration on internet search.
+Turing curses is my answer to the sketchy dillema (masterfully portrayed
+in the previous paragraphs). It has been hacked one night after frustration 
+on internet search.
 
 This software is distributed under the GPLv3 license. See COPYING file.
 
-# Current status and usage 
+# Current status and usage
 
 Minimum working simulator of a turing machine which runs in a tape infinite
 to the "right". The only way of halting it is trying to advance beyond the
