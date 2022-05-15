@@ -11,18 +11,18 @@ will have yet another story of exotic geeky fun..."
 
 A little friendly browsing later, though:
 
-"What, these interpreters are provided in _binary_ format, and ony under
-demand? These others must to be used online, and gosh what creepy design!
-(So not user-friendly!) 
+"What?! these interpreters are provided in _binary_ format, and ony under
+demand? these others must to be used online (and gosh what creepy design!
+utterly NOT user-friendly!) 
 I'd rather hack something in text mode..."
 
-At which point the voiceover from the narrator takes over...
+At which point the voiceover narration takes over...
 
 Text mode! That's it!
 
-Turing curses is my answer to the sketchy dillema (masterfully portrayed
-in the previous paragraphs). It has been hacked one night after frustration 
-on internet search.
+Turing curses is an answer to the sketchy dillema so masterfully portrayed
+in the previous friendly paragraphs.
+It has been hacked one night after frustration on internet search.
 
 This software is distributed under the GPLv3 license. See COPYING file.
 
@@ -121,3 +121,7 @@ They'll be more fun to code when we have ascii-named states, I know.
 - add one (binary)  `1111` --> `10000`
 - evaluate unary expression (multiplication precedes sum) `11+111*11` --> `11111111`
 - evaluate unary expression (with parenthesis!) `(11+111)*11` --> `1111111111`
+
+## Known limitations
+
+- Not friendly enough
